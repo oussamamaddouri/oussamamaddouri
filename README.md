@@ -75,10 +75,10 @@
 
 <!-- Your username is already set here! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xoblite2905&show_icons=true&theme=tokyonight&rank_icon=github" alt="Oussama Maddouri's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamamaddouri&show_icons=true&theme=tokyonight&rank_icon=github" alt="Oussama Maddouri's GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoblite2905&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamamaddouri&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
